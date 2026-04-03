@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[97367,["/Lp/_next/static/chunks/0dbhjjzl8qfwv.js"],"ViewportBoundary"]
+3:I[97367,["/Lp/_next/static/chunks/0dbhjjzl8qfwv.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[27201,["/Lp/_next/static/chunks/0dbhjjzl8qfwv.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"MedMatch - 医師と病院の最適なマッチングサービス"}],["$","meta","1",{"name":"description","content":"MedMatchは、医師と病院をAIで最適にマッチング。転職・採用の課題を解決し、理想のキャリア・人材との出会いを実現します。"}],["$","link","2",{"rel":"icon","href":"/Lp/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"pm1xRp_WY2yEjwz6TgJHI"}
